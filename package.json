@@ -1,0 +1,18 @@
+{
+  "name": "nextjs-start",
+  "version": "0.0.1",
+  "description": "Next.JS starter",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": "git@github.com:andriy-f/nextjs-start.git",
+  "author": "Andriy F.",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "next": "^4.2.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
