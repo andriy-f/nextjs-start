@@ -4,13 +4,14 @@
   "description": "Next.JS starter",
   "main": "index.js",
   "scripts": {
-    "dev": "next"
+    "dev": "node server.js"
   },
   "repository": "git@github.com:andriy-f/nextjs-start.git",
   "author": "Andriy F.",
   "license": "MIT",
   "private": false,
   "dependencies": {
+    "express": "^4.16.2",
     "next": "^4.2.3",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
